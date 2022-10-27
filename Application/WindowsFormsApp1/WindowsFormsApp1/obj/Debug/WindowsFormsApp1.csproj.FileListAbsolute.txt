@@ -1,0 +1,10 @@
+D:\Важные файлы\4 курс\7 семестр\Инструментальные средства разработки ПО\Лабы\Лабораторная работа №6\Application\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Важные файлы\4 курс\7 семестр\Инструментальные средства разработки ПО\Лабы\Лабораторная работа №6\Application\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Важные файлы\4 курс\7 семестр\Инструментальные средства разработки ПО\Лабы\Лабораторная работа №6\Application\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Важные файлы\4 курс\7 семестр\Инструментальные средства разработки ПО\Лабы\Лабораторная работа №6\Application\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\Важные файлы\4 курс\7 семестр\Инструментальные средства разработки ПО\Лабы\Лабораторная работа №6\Application\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Важные файлы\4 курс\7 семестр\Инструментальные средства разработки ПО\Лабы\Лабораторная работа №6\Application\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Важные файлы\4 курс\7 семестр\Инструментальные средства разработки ПО\Лабы\Лабораторная работа №6\Application\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Важные файлы\4 курс\7 семестр\Инструментальные средства разработки ПО\Лабы\Лабораторная работа №6\Application\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Важные файлы\4 курс\7 семестр\Инструментальные средства разработки ПО\Лабы\Лабораторная работа №6\Application\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Важные файлы\4 курс\7 семестр\Инструментальные средства разработки ПО\Лабы\Лабораторная работа №6\Application\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
